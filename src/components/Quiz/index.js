@@ -5,14 +5,14 @@ const theQuiz = [
   {
     question: "what is name of the 25th James Bond film?",
     answer: "No time to die",
-    showQuestion: false,
-    showAnswer: true,
+    showQuestion: true,
+    showAnswer: false,
   },
   {
     question: "who created javascript?",
     answer: "Netscape",
     showQuestion: true,
-    showAnswer: true,
+    showAnswer: false,
   },
 ];
 const Quiz = () => {
